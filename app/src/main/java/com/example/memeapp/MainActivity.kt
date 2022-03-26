@@ -54,7 +54,7 @@ class MainActivity : AppCompatActivity() {
                         progressBar.visibility = View.GONE
                         return false
                     }
-
+// just checking for github upload ignore this line
                     override fun onResourceReady(
                         resource: Drawable?,
                         model: Any?,
